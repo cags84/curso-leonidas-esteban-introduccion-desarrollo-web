@@ -1,4 +1,4 @@
 # Curso introducción al desarrollo web
 
-https://leonidasesteban.com/aprender/desarrollo-web
+https://cags84.github.io/curso-leonidas-esteban-introduccion-desarrollo-web/
 
